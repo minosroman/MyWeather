@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="tv_weather">Weather</string>
+    <string name="tv_temperature">Temperature</string>
+    <string name="tv_humidity">Humidity</string>
+    <string name="tv_sunrSuns">Sunrise/Sunset</string>
+    <string name="tv_maxMin">Min/Max Temp</string>
+    <string name="tv_windSpeed">Wind Speed/Direction</string>
+    <string name="tv_description">Description</string>
+    <string name="min_temp">Min Temp</string>
+    <string name="max_temp">Max Temp</string>
+    <string name="main_temp">Cº</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="wind_speed">Speed</string>
+    <string name="wind_dir">Direction</string>
+</resources>
